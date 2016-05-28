@@ -59,7 +59,7 @@ log to kafka, kafka must be 0.9 or later, and any params can be set by multiple 
 
 #### <a name="redis"/>LogstashRedisAppender
 
-```
+```xml
  <appender name="redisAppender" class="net.logstash.logback.appender.LogstashRedisAppender">
        <queueSize>1024</queueSize>                      <!-- default buffer size, default is 1024 -->
        <discardingThreshold>204</discardingThreshold>   <!-- if queue remaining capacity less then this value, debug and info will be discard. default is queueSize/5 -->
