@@ -1,5 +1,8 @@
 # logstash-logback-encoder-extends
 
+#### Build status
+[![Build Status](https://travis-ci.org/aqlu/logstash-logback-encoder-extends.svg?branch=master)
+
 #### Contents:
 * [Including it in your project](#include)
 * [Usage](#usage)
