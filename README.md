@@ -6,7 +6,7 @@
 #### Contents:
 * [Including it in your project](#include)
 * [Usage](#usage)
-  * [Kafaka Appender](#kafka)
+  * [Kafka Appender](#kafka)
   * [Redis Appender](#redis)
   
 
