@@ -16,8 +16,8 @@ pom.xml
 ```xml
 <dependency>
   <groupId>net.logstash.logback</groupId>
-  <artifactId>logstash-logback-encoder</artifactId>
-  <version>4.7</version>
+  <artifactId>logstash-logback-encoder-extends</artifactId>
+  <version>1.0.0-SNAPSHOT</version>
 </dependency>
 ```
 
